@@ -13,7 +13,7 @@ from collections import deque
 from datetime import datetime
 import struct
 
-import plutodefs as pdef
+import Junodefs as pdef
 
 # Frame rate estimation window
 FR_WINDOW_N = 100
